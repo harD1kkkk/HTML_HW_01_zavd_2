@@ -1,0 +1,19 @@
+h2 {
+    font-size: large;
+    font-weight: bolder;
+}
+
+.black {
+    background-color: rgba(192, 192, 192, 0.89);
+    font-size: larger;
+    display: inline-block;
+    font-size: 100px;
+}
+
+.red {
+    background-color: rgba(192, 192, 192, 0.89);
+    display: inline-block;
+    color: red;
+    font-size: 100px;
+    align-items: center;
+}
